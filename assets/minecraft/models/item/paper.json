@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "item/ultimate_card" },
+    { "predicate": { "custom_model_data": 2 }, "model": "item/herobrine_card" },
+    { "predicate": { "custom_model_data": 3 }, "model": "item/nothing_card" },
+    { "predicate": { "custom_model_data": 4 }, "model": "item/zombie_card" },
+    { "predicate": { "custom_model_data": 5 }, "model": "item/creeper_card" },
+    { "predicate": { "custom_model_data": 6 }, "model": "item/lightning_card" },
+    { "predicate": { "custom_model_data": 7 }, "model": "item/warden_card" },
+    { "predicate": { "custom_model_data": 8 }, "model": "item/ghost_card" },
+    { "predicate": { "custom_model_data": 9 }, "model": "item/enderman_card" },
+    { "predicate": { "custom_model_data": 10 }, "model": "item/ruin_card" }
+  ]
+    }
